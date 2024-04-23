@@ -22,7 +22,7 @@
   }
   
   #search button {
-    background: url(../images/search.png) no-repeat center;
+    background: url(./../images/search.png) no-repeat center;
     font-size: 0;
     height: 18px;
     width: 18px;
