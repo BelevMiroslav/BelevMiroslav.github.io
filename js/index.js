@@ -28,7 +28,7 @@ var app = new Vue({
           id: 4,
           title: "Kennebec Seeds",
           short_text: "Harvest Homegrown Happiness: Potato Seeds for Your Garden Glory!",
-          image: "kennebec.jpeg",
+          image: "Kennebec.jpeg",
           desc: "<div class='additional-info'><div class='list-title'>Characteristics</div><ul class='characteristics-list'><li><strong>Resistance</strong></li><li>HR: ToMV:0-2; Fol: 1,2; Ve/Vd;</li><li>IR: TYLCV</li></ul></div><div class='additional-info'><div class='list-title'>Plant</div><ul class='plant-list'><li>Exhibits robust vigor, forming a dense canopy of leaves.</li><li>Yields exceptionally high productivity with reliable fruit set.</li><li>Noted for its early maturity, facilitating prompt harvesting.</li></ul></div><div class='additional-info'><div class='list-title'>Fruit</div><ul class='fruit-list'><li>Offers extended shelf life during growth and after harvest.</li><li>Showcases an alluring, shiny deep red coloration.</li><li>Generates potatoes of uniform size, typically ranging from 140 to 160 grams.</li></ul></div><div class='additional-info'><div class='list-title'>Cycle</div><ul class='cycle-list'><li>Suitable for both spring and fall cultivation.</li></ul></div><div class='additional-info'><div class='list-title'>Color</div><ul class='color-list'><li>White</li></ul></div>",
         },
         {
