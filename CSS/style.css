@@ -61,7 +61,7 @@
   /*banner*/
   #slider {
     text-align: center;
-    background: url(./../images/background.jpg) no-repeat center;
+    background: url(/../images/background.jpg) no-repeat center;
     margin-top: -160px;
     padding: 330px 0;
   }
